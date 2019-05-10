@@ -1,16 +1,9 @@
-# Tech Docs Template
+# DSS Tech Docs Template
 
 The Tech Docs Template is a [Middleman template][mmt] that
-you can use to build technical documentation using a GOV.UK style.
+you can use to build technical documentation using a DSS style. It is a variation of the GOV.UK Tech Docs Template.
 
-This repo is the template used to generate new sites. The generated site uses HTML, CSS, JS and images from the [tech docs gem](https://github.com/alphagov/tech-docs-gem).
-
-You’re welcome to use the template even if your service isn’t considered part of GOV.UK, but your site or service must not:
-
-- identify itself as being part of GOV.UK
-- use the crown or GOV.UK logotype in the header
-- use the GDS Transport typeface
-- suggest that it’s an official UK government website if it’s not
+This repo is the template used to generate new sites. The generated site uses HTML, CSS, JS and images from the [tech docs gem](https://github.com/dof-dss/tech-docs-gem).
 
 👉 To find out more about setting up and managing content for a website using this template, see the [Tech Docs Template documentation][tdt-docs].
 
@@ -26,7 +19,7 @@ To use the Tech Docs Template you need:
 To create a new project using the Tech Docs Template, run:
 
 ```sh
-middleman init PROJECT_NAME -T alphagov/tech-docs-template
+middleman init PROJECT_NAME -T dof-dss/tech-docs-template
 ```
 
 where `PROJECT_NAME` is the name of your new project.
