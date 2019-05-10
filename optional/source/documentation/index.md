@@ -1,4 +1,4 @@
-# DSS Documentation Template
+# DSS Docs Template
 
 ## Edit Me!
 
