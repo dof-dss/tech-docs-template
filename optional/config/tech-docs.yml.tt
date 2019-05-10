@@ -10,7 +10,7 @@ phase: Beta
 # Links to show on right-hand-side of header
 header_links:
   Documentation: /
-  GitHub: https://git@github.com:dof-dss/tech-docs-template
+  GitHub: https://github.com/dof-dss/tech-docs-template.git
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: false
