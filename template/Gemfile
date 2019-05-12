@@ -11,5 +11,5 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 # Include the tech docs gem (this needs to be changed to the DSS version)
 #gem 'govuk_tech_docs'
 
-# Use local version of govuk_tech_docs as a temporary measure
-gem 'govuk_tech_docs', path: '../tech-docs-gem'
+# Use DSSversion of govuk_tech_docs
+gem 'dss_tech_docs'
